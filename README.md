@@ -1,2 +1,0 @@
-# vendraminiSalesAnalyzer
-Sales Range Analyzer 
